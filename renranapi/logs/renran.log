@@ -1,0 +1,58 @@
+INFO 2020-01-06 16:53:50,641 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 16:57:09,511 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 16:57:11,369 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 16:58:11,115 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 16:59:59,905 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 17:00:47,932 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 17:01:28,715 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 17:01:30,958 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-06 17:01:31,022 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-01-06 17:01:31,353 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-06 17:01:31,359 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-01-06 17:01:31,368 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+ERROR 2020-01-06 20:06:13,888 exception 77 Invalid HTTP_HOST header: 'api.renran.cn:8000'. You may need to add 'api.renran.cn' to ALLOWED_HOSTS.
+ERROR 2020-01-06 20:06:15,066 basehttp 154 "GET / HTTP/1.1" 500 59
+ERROR 2020-01-06 20:06:15,138 exception 77 Invalid HTTP_HOST header: 'api.renran.cn:8000'. You may need to add 'api.renran.cn' to ALLOWED_HOSTS.
+ERROR 2020-01-06 20:06:15,149 basehttp 154 "GET /favicon.ico HTTP/1.1" 500 59
+INFO 2020-01-06 20:08:52,093 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 20:09:04,647 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:09:24,472 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:09:27,814 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-06 20:09:28,137 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+WARNING 2020-01-06 20:09:30,084 log 228 Not Found: /favicon.ico
+WARNING 2020-01-06 20:09:30,085 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1979
+INFO 2020-01-06 20:09:30,160 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-01-06 20:09:30,319 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-01-06 20:09:30,347 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-01-06 20:10:39,611 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:10:43,201 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-06 20:10:48,950 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2020-01-06 20:14:34,105 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 20:14:36,708 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:14:44,130 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 20:14:46,527 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:15:04,223 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 20:15:06,087 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:20:27,974 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 20:20:35,827 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:31:37,740 autoreload 203 D:\git\renran\renranapi\renranapi\settings\dev.py changed, reloading.
+INFO 2020-01-06 20:31:41,611 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 20:32:35,659 autoreload 203 D:\git\renran\renranapi\renranapi\apps\users\models.py changed, reloading.
+INFO 2020-01-06 20:32:38,476 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-01-06 21:17:34,621 autoreload 578 Watching for file changes with StatReloader
+ERROR 2020-01-06 21:17:36,250 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2020-01-06 21:17:36,401 basehttp 154 "POST /authorizations/ HTTP/1.1" 500 59
+ERROR 2020-01-06 21:17:43,174 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2020-01-06 21:17:43,187 basehttp 154 "GET /authorizations/ HTTP/1.1" 500 59
+ERROR 2020-01-06 21:17:43,434 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2020-01-06 21:17:43,449 basehttp 154 "GET /favicon.ico HTTP/1.1" 500 59
+INFO 2020-01-06 21:20:01,232 autoreload 203 C:\Users\81421\Envs\renran\Lib\site-packages\django\views\debug.py changed, reloading.
+INFO 2020-01-06 21:20:07,463 autoreload 578 Watching for file changes with StatReloader
+ERROR 2020-01-06 21:20:11,311 exception 77 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-01-06 21:20:12,094 log 228 Bad Request: /authorizations/
+WARNING 2020-01-06 21:20:12,095 basehttp 154 "POST /authorizations/ HTTP/1.1" 400 70326
+WARNING 2020-01-06 21:20:28,132 log 228 Not Found: /authorizations/
+WARNING 2020-01-06 21:20:28,133 basehttp 154 "POST /authorizations/ HTTP/1.1" 404 2098
+WARNING 2020-01-06 21:20:48,223 log 228 Not Found: /user/authorizations/
+WARNING 2020-01-06 21:20:48,224 basehttp 154 "POST /user/authorizations/ HTTP/1.1" 404 2113
+INFO 2020-01-06 21:20:51,754 basehttp 154 "POST /users/authorizations/ HTTP/1.1" 200 171
